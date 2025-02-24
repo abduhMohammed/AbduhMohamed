@@ -10,7 +10,7 @@
 
 ###
 
-<h2 align="left">🌱 Currently Learning:</h2>
+<h2 align="left">🌱 Currently Learning</h2>
 
 ###
 
