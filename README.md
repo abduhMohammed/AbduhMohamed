@@ -1,4 +1,3 @@
-# AbduhMohamed
 <h1 align="left">Hi there, I'm Abduh👋</h1>
 
 ###
@@ -42,12 +41,12 @@
 </div>
 
 ###
-
+```csharp
 <p align="left">string[] cooking = { "🥚", "🔥", "🍳", "🍽️", "😋" };
   <br>        
   var sorted = cooking.OrderBy(c => c).ToArray();
   <br>        
   Console.WriteLine($"[{string.Join(", ", sorted)}]");<br>>>>>> [🍳, 🍽️, 🥚, 😋, 🔥]
 </p>
-
+```
 ###
