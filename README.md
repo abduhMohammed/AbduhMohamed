@@ -46,6 +46,5 @@ string[] cooking = { "🥚", "🔥", "🍳", "🍽️", "😋" };
         var sorted = cooking.OrderBy(c => c).ToArray();
         Console.WriteLine($"[{string.Join(", ", sorted)}]");
 >>>>> [🍳, 🍽️, 🥚, 😋, 🔥]
-</p>
 ```
 ###
