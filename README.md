@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">- I'am Working on Improving my GitHub Profile</p>
+<p align="left">- I'm Working on Improving my GitHub Profile.</p>
 
 ###
 
