@@ -42,11 +42,10 @@
 
 ###
 ```csharp
-<p align="left">string[] cooking = { "🥚", "🔥", "🍳", "🍽️", "😋" };
-  <br>        
-  var sorted = cooking.OrderBy(c => c).ToArray();
-  <br>        
-  Console.WriteLine($"[{string.Join(", ", sorted)}]");<br>>>>>> [🍳, 🍽️, 🥚, 😋, 🔥]
+string[] cooking = { "🥚", "🔥", "🍳", "🍽️", "😋" };
+        var sorted = cooking.OrderBy(c => c).ToArray();
+        Console.WriteLine($"[{string.Join(", ", sorted)}]");
+>>>>> [🍳, 🍽️, 🥚, 😋, 🔥]
 </p>
 ```
 ###
