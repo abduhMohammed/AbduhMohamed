@@ -26,9 +26,7 @@
 
 ###
 
-<h3 align="left">Languages I use:</h3>
-
-###
+###Languages I Use:
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
