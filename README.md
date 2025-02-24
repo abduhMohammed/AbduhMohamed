@@ -1,4 +1,4 @@
-<h1 align="left">Hi there, I'm Abduh👋</h1>
+<h1 align="left">Hi there, I'm Abdo👋</h1>
 
 ###
 
@@ -15,6 +15,12 @@
 ###
 
   <p align="left">  🔥  .NET Development – Enhancing my backend skills<br>  🛠️  Software Testing – Exploring automation & test strategies</p>
+
+###
+
+###
+
+<p align="left">- I'am Working on Improving my GitHub Profile</p>
 
 ###
 
