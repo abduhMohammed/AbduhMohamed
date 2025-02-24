@@ -11,9 +11,10 @@
 ###
 
 <h3 align="left">🌱 Currently Learning</h3>
+
 ###
 
-  <p align="left">🔥 .NET Development – Enhancing my backend skills<br>🛠️ Software Testing – Exploring automation & test strategies</p>
+  <p align="left">  🔥 .NET Development – Enhancing my backend skills<br>  🛠️ Software Testing – Exploring automation & test strategies</p>
 
 ###
 
